@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58CD6DA9-8D6B-4C80-AC50-A29F28786643}|..\\ValidationLibrary.Tests\\ValidationLibrary1.Tests.csproj|c:\\users\\muhammed imaan\\source\\repos\\validationlibrary.tests\\validationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|c:\\users\\muhammed imaan\\source\\repos\\validationlibrary1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|c:\\users\\muhammed imaan\\source\\repos\\validationlibrary1\\rules\\rangerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|solutionrelative:rules\\rangerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|c:\\users\\muhammed imaan\\source\\repos\\validationlibrary1\\core\\fieldvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|solutionrelative:core\\fieldvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|c:\\users\\muhammed imaan\\source\\repos\\validationlibrary1\\core\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|solutionrelative:core\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|c:\\users\\muhammed imaan\\source\\repos\\validationlibrary1\\core\\ivalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|solutionrelative:core\\ivalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|c:\\users\\muhammed imaan\\source\\repos\\validationlibrary1\\extensions\\fieldvalidatorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|solutionrelative:extensions\\fieldvalidatorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|c:\\users\\muhammed imaan\\source\\repos\\validationlibrary1\\rules\\emailrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|solutionrelative:rules\\emailrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|c:\\users\\muhammed imaan\\source\\repos\\validationlibrary1\\rules\\maxlengthrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|solutionrelative:rules\\maxlengthrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|c:\\users\\muhammed imaan\\source\\repos\\validationlibrary1\\rules\\minlengthrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|solutionrelative:rules\\minlengthrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|c:\\users\\muhammed imaan\\source\\repos\\validationlibrary1\\rules\\requiredrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|solutionrelative:rules\\requiredrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|c:\\users\\muhammed imaan\\source\\repos\\validationlibrary1\\core\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|solutionrelative:core\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|c:\\users\\muhammed imaan\\source\\repos\\validationlibrary1\\core\\validationrulebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|solutionrelative:core\\validationrulebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|c:\\users\\muhammed imaan\\source\\repos\\validationlibrary1\\validationlibrary1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A247C93A-2DC6-4FA6-956F-17AB5F7F9EB8}|ValidationLibrary1.csproj|solutionrelative:validationlibrary1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Core\\ValidationResult.cs",
+              "RelativeDocumentMoniker": "Core\\ValidationResult.cs",
+              "ToolTip": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Core\\ValidationResult.cs",
+              "RelativeToolTip": "Core\\ValidationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T00:36:17.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FieldValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Core\\FieldValidator.cs",
+              "RelativeDocumentMoniker": "Core\\FieldValidator.cs",
+              "ToolTip": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Core\\FieldValidator.cs",
+              "RelativeToolTip": "Core\\FieldValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T01:39:19.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RangeRule.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Rules\\RangeRule.cs",
+              "RelativeDocumentMoniker": "Rules\\RangeRule.cs",
+              "ToolTip": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Rules\\RangeRule.cs",
+              "RelativeToolTip": "Rules\\RangeRule.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA7wB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:18:34.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T00:19:11.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IValidationRule.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Core\\IValidationRule.cs",
+              "RelativeDocumentMoniker": "Core\\IValidationRule.cs",
+              "ToolTip": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Core\\IValidationRule.cs",
+              "RelativeToolTip": "Core\\IValidationRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T00:24:09.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FieldValidatorExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Extensions\\FieldValidatorExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\FieldValidatorExtensions.cs",
+              "ToolTip": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Extensions\\FieldValidatorExtensions.cs",
+              "RelativeToolTip": "Extensions\\FieldValidatorExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:50:11.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationTests.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary.Tests\\ValidationTests.cs",
+              "RelativeDocumentMoniker": "..\\ValidationLibrary.Tests\\ValidationTests.cs",
+              "ToolTip": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary.Tests\\ValidationTests.cs",
+              "RelativeToolTip": "..\\ValidationLibrary.Tests\\ValidationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:49:55.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailRule.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Rules\\EmailRule.cs",
+              "RelativeDocumentMoniker": "Rules\\EmailRule.cs",
+              "ToolTip": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Rules\\EmailRule.cs",
+              "RelativeToolTip": "Rules\\EmailRule.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:18:03.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MaxLengthRule.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Rules\\MaxLengthRule.cs",
+              "RelativeDocumentMoniker": "Rules\\MaxLengthRule.cs",
+              "ToolTip": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Rules\\MaxLengthRule.cs",
+              "RelativeToolTip": "Rules\\MaxLengthRule.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T01:21:35.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Core\\Validator.cs",
+              "RelativeDocumentMoniker": "Core\\Validator.cs",
+              "ToolTip": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Core\\Validator.cs",
+              "RelativeToolTip": "Core\\Validator.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:44:28.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequiredRule.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Rules\\RequiredRule.cs",
+              "RelativeDocumentMoniker": "Rules\\RequiredRule.cs",
+              "ToolTip": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Rules\\RequiredRule.cs",
+              "RelativeToolTip": "Rules\\RequiredRule.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T00:59:43.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MinLengthRule.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Rules\\MinLengthRule.cs",
+              "RelativeDocumentMoniker": "Rules\\MinLengthRule.cs",
+              "ToolTip": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Rules\\MinLengthRule.cs",
+              "RelativeToolTip": "Rules\\MinLengthRule.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T01:15:37.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidationRuleBase.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Core\\ValidationRuleBase.cs",
+              "RelativeDocumentMoniker": "Core\\ValidationRuleBase.cs",
+              "ToolTip": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\Core\\ValidationRuleBase.cs",
+              "RelativeToolTip": "Core\\ValidationRuleBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T00:47:55.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValidationLibrary1.csproj",
+              "DocumentMoniker": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\ValidationLibrary1.csproj",
+              "RelativeDocumentMoniker": "ValidationLibrary1.csproj",
+              "ToolTip": "C:\\Users\\Muhammed Imaan\\source\\repos\\ValidationLibrary1\\ValidationLibrary1.csproj",
+              "RelativeToolTip": "ValidationLibrary1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-08T00:21:20.262Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
