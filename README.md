@@ -100,7 +100,7 @@ Age: Age must be between 18 and 60
 ## Running the Console Demo
 
 ```bash
-git clone https://github.com/<your-username>/ValidationLibrary1.git
+git clone  https://github.com/imaan2001/ValidationLibrary1.git
 cd ValidationLibrary1
 dotnet run --project ValidationLibrary1
 ```
